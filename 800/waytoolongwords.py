@@ -18,7 +18,7 @@ Print n lines. The i-th line should contain the result of replacing of the i-th 
 """
 
 ## SOLUTION
-## Created with my 9-year-old friend + student, Brayden Lin.
+## Created with my 9-year-old friend + student.
 num_of_words = int(input())
 word_list = []
 i = 0
